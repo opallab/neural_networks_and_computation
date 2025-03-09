@@ -46,6 +46,10 @@ Contributed by Kimon Fountoulakis
 
     *Angeliki Giannou, Shashank Rajput, Jy-Yong Sohn, Kangwook Lee, Jason D. Lee, Dimitris Papailiopoulos*
 
+1. **Exposing Attention Glitches with Flip-Flop Language Modeling.** NeurIPS 2023. [paper](https://openreview.net/forum?id=VzmpXQAn6E)
+
+    *Bingbin Liu, Jordan T. Ash, Surbhi Goel, Akshay Krishnamurthy, Cyril Zhang*
+
 1. **Transformers Learn Shortcuts to Automata .** ICLR 2023. [paper](https://openreview.net/forum?id=De4FYqjFueZ)
 
     *Bingbin Liu, Jordan T. Ash, Surbhi Goel, Akshay Krishnamurthy, Cyril Zhang*
