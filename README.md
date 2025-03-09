@@ -1,4 +1,4 @@
-# Computational Capability and Efficiency of Neural Networks.
+# Computational Capability and Efficiency of Neural Networks: A Repository of Papers
 
 Contributed by Kimon Fountoulakis
 
