@@ -1,4 +1,4 @@
-# Computational abilities and efficiency of neural networks.
+# Computational capability and efficiency of neural networks.
 
 Contributed by Kimon Fountoulakis
 
