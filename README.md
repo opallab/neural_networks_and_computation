@@ -102,7 +102,7 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
 1. **Simulation of Graph Algorithms with Looped Transformers.** ICML 2024. [paper]([https://openreview.net/forum?id=B1l2bp4YwS](https://proceedings.mlr.press/v235/back-de-luca24a.html))
 
-    *Artur Back De Luca, Kimon Fountoulakis *
+    *Artur Back De Luca, Kimon Fountoulakis*
 
 1. **Graph Transformers Dream of Electric Flow.** ICLR 2025. [paper](https://openreview.net/forum?id=rWQDzq3O5c&noteId=VeksyxMusa)
 
