@@ -88,7 +88,7 @@ Contributed by Kimon Fountoulakis
 1. **Provably good solutions to the knapsack problem via neural networks
 of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20433-1-2-20210518.pdf)
 
-    *Christoph Hertrich and Martin Skutella*
+    *Christoph Hertrich, Martin Skutella*
 
 1. **ReLU Neural Networks of Polynomial Size for Exact Maximum Flow Computation.** Integer Programming and Combinatorial Optimization 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-32726-1_14)
 
