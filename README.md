@@ -100,6 +100,10 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
 ### Graph neural networks
 
+1. **Graph neural networks extrapolate out-of-distribution for shortest paths.** arXiv 2025. [paper](https://arxiv.org/abs/2503.19173)
+
+    *Robert R. Nerem, Samantha Chen, Sanjoy Dasgupta, Yusu Wang*
+
 1. **What graph neural networks cannot learn: depth vs width.** ICLR 2020. [paper](https://openreview.net/forum?id=B1l2bp4YwS)
 
     *Andreas Loukas*
