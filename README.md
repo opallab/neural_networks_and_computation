@@ -83,7 +83,7 @@ Contributed by Kimon Fountoulakis
 
     *Artur Back de Luca, George Giapitzakis, Shenghao Yang, Petar Veličković, Kimon Fountoulakis*
 
-1. **Round and Round We Go! What makes Rotary Positional Encodings useful?.** ICLR 2025. [paper]([https://jmlr.org/papers/v22/20-302.html](https://openreview.net/forum?id=GtvuNrk58a))
+1. **Round and Round We Go! What makes Rotary Positional Encodings useful?.** ICLR 2025. [paper](https://openreview.net/forum?id=GtvuNrk58a)
 
     *Federico Barbero, Alex Vitvitskyi, Christos Perivolaropoulos, Razvan Pascanu, Petar Veličković*
 
@@ -139,10 +139,10 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
 ## Formal Languages  
 
-1. **Neural Networks and the Chomsky Hierarchy.** ICLR 2023. [paper]([https://openreview.net/forum?id=WbxHAzkeQcn))
+1. **Neural Networks and the Chomsky Hierarchy.** ICLR 2023. [paper](https://openreview.net/forum?id=WbxHAzkeQcn)
 
     *Grégoire Delétang, Anian Ruoss, Jordi Grau-Moya, Tim Genewein, Li Kevin Wenliang, Elliot Catt, Chris Cundy, Marcus Hutter, Shane Legg, Joel Veness, Pedro A. Ortega*
 
-1. **Training Neural Networks as Recognizers of Formal Languages.** ICLR 2025. [paper]([https://openreview.net/forum?id=aWLQTbfFgV))
+1. **Training Neural Networks as Recognizers of Formal Languages.** ICLR 2025. [paper](https://openreview.net/forum?id=aWLQTbfFgV)
 
     *Alexandra Butoi, Ghazal Khalighinejad, Anej Svete, Josef Valvoda, Ryan Cotterell, Brian DuSell*
