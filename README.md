@@ -131,3 +131,13 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 1. **Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity.** arXiv 2025. [paper](https://arxiv.org/abs/2502.16763)
 
     *George Giapitzakis, Artur Back de Luca, Kimon Fountoulakis*
+
+## Formal Languages  
+
+1. **Neural Networks and the Chomsky Hierarchy.** ICLR 2023. [paper]([https://openreview.net/forum?id=WbxHAzkeQcn))
+
+    *Grégoire Delétang, Anian Ruoss, Jordi Grau-Moya, Tim Genewein, Li Kevin Wenliang, Elliot Catt, Chris Cundy, Marcus Hutter, Shane Legg, Joel Veness, Pedro A. Ortega*
+
+1. **Training Neural Networks as Recognizers of Formal Languages.** ICLR 2025. [paper]([https://openreview.net/forum?id=aWLQTbfFgV))
+
+    *Alexandra Butoi, Ghazal Khalighinejad, Anej Svete, Josef Valvoda, Ryan Cotterell, Brian DuSell*
