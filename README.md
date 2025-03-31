@@ -83,6 +83,10 @@ Contributed by Kimon Fountoulakis
 
     *Artur Back de Luca, George Giapitzakis, Shenghao Yang, Petar Veličković, Kimon Fountoulakis*
 
+1. **Round and Round We Go! What makes Rotary Positional Encodings useful?.** ICLR 2025. [paper]([https://jmlr.org/papers/v22/20-302.html](https://openreview.net/forum?id=GtvuNrk58a))
+
+    *Federico Barbero, Alex Vitvitskyi, Christos Perivolaropoulos, Razvan Pascanu, Petar Veličković*
+
 <a name="feedforward-simulation"></a>
 ### Feedforward neural networks
 
