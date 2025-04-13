@@ -51,9 +51,13 @@ Contributed by Kimon Fountoulakis
 
     *Bingbin Liu, Jordan T. Ash, Surbhi Goel, Akshay Krishnamurthy, Cyril Zhang*
 
-1. **Transformers Learn Shortcuts to Automata .** ICLR 2023. [paper](https://openreview.net/forum?id=De4FYqjFueZ)
+1. **Transformers Learn Shortcuts to Automata.** ICLR 2023. [paper](https://openreview.net/forum?id=De4FYqjFueZ)
 
     *Bingbin Liu, Jordan T. Ash, Surbhi Goel, Akshay Krishnamurthy, Cyril Zhang*
+
+1. **Memory Augmented Large Language Models are Computationally Universal.** arXiv 2023. [paper](https://arxiv.org/abs/2301.04589)
+
+    *Dale Schuurmans*
 
 1. **Representational Capabilities of Feed-Forward and Sequential Neural Architectures.** PhD Thesis 2024. [paper](https://www.proquest.com/openview/0a8f8efe0d4041ae5e6bab292a2d19a1/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
