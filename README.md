@@ -59,6 +59,10 @@ Contributed by Kimon Fountoulakis
 
     *Dale Schuurmans*
 
+1. **Chain of Thought Empowers Transformers to Solve Inherently Serial Problems.** ICLR 2024. [paper](https://openreview.net/forum?id=3EWTEy9MTM)
+
+    *Zhiyuan Li, Hong Liu, Denny Zhou, Tengyu Ma*
+
 1. **Representational Capabilities of Feed-Forward and Sequential Neural Architectures.** PhD Thesis 2024. [paper](https://www.proquest.com/openview/0a8f8efe0d4041ae5e6bab292a2d19a1/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
     *Sanford, Clayton Hendrick*
@@ -90,6 +94,10 @@ Contributed by Kimon Fountoulakis
 1. **Round and Round We Go! What makes Rotary Positional Encodings useful?.** ICLR 2025. [paper](https://openreview.net/forum?id=GtvuNrk58a)
 
     *Federico Barbero, Alex Vitvitskyi, Christos Perivolaropoulos, Razvan Pascanu, Petar Veličković*
+
+1. **Reasoning with Latent Thoughts: On the Power of Looped Transformers.** ICLR 2025. [paper](https://openreview.net/forum?id=din0lGfZFd)
+
+    *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sanjiv Kumar, Sashank J. Reddi*
 
 <a name="feedforward-simulation"></a>
 ### Feedforward neural networks
