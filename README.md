@@ -176,10 +176,6 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Rodrigo Nogueira, Zhiying Jiang, Jimmy Lin*
 
-1. **Investigating the Limitations of Transformers with Simple Arithmetic Tasks.** arXiv 2021. [paper](https://arxiv.org/abs/2102.13019)
-
-    *Rodrigo Nogueira, Zhiying Jiang, Jimmy Lin*
-
 1. **A Primer for Neural Arithmetic Logic Modules.** arXiv 2022. [paper](https://arxiv.org/abs/2101.09530)
 
     *Bhumika Mistry, Katayoun Farrahi, Jonathon Hare*
