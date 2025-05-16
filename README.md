@@ -155,9 +155,17 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Wojciech Zaremba, Ilya Sutskever*
 
+1. **Neural Programmer-Interpreters.** arXiv 2015. [paper](https://arxiv.org/abs/1511.06279)
+
+    *Scott Reed, Nando de Freitas*
+
 1. **Neural Programmer: Inducing Latent Programs with Gradient Descent.** arXiv 2016. [paper](https://arxiv.org/abs/1511.04834)
 
     *Arvind Neelakantan, Quoc V. Le, Ilya Sutskever*
+
+1. **Deep Neural Solver for Math Word Problems.** arXiv 2017. [paper](https://aclanthology.org/D17-1088/)
+
+    *Yan Wang, Xiaojiang Liu, and Shuming Shi*
 
 ## Formal Languages  
 
