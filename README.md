@@ -149,6 +149,16 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *George Giapitzakis, Artur Back de Luca, Kimon Fountoulakis*
 
+## Empirical
+
+1. **Learning to Execute.** arXiv 2015. [paper](https://arxiv.org/abs/1410.4615)
+
+    *Wojciech Zaremba, Ilya Sutskever*
+
+1. **Neural Programmer: Inducing Latent Programs with Gradient Descent.** arXiv 2016. [paper](https://arxiv.org/abs/1511.04834)
+
+    *Arvind Neelakantan, Quoc V. Le, Ilya Sutskever*
+
 ## Formal Languages  
 
 1. **Neural Networks and the Chomsky Hierarchy.** ICLR 2023. [paper](https://openreview.net/forum?id=WbxHAzkeQcn)
