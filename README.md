@@ -167,6 +167,50 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Yan Wang, Xiaojiang Liu, and Shuming Shi*
 
+1. **Analysing Mathematical Reasoning Abilities of Neural Models.** arXiv 2019. [paper](https://arxiv.org/abs/1904.01557)
+
+    *David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli*
+
+1. **Investigating the Limitations of Transformers with Simple Arithmetic Tasks.** arXiv 2021. [paper](https://arxiv.org/abs/2102.13019)
+
+    *Rodrigo Nogueira, Zhiying Jiang, Jimmy Lin*
+
+1. **Investigating the Limitations of Transformers with Simple Arithmetic Tasks.** arXiv 2021. [paper](https://arxiv.org/abs/2102.13019)
+
+    *Rodrigo Nogueira, Zhiying Jiang, Jimmy Lin*
+
+1. **A Primer for Neural Arithmetic Logic Modules.** arXiv 2022. [paper](https://arxiv.org/abs/2101.09530)
+
+    *Bhumika Mistry, Katayoun Farrahi, Jonathon Hare*
+
+1. **Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets.** arXiv 2022. [paper](https://arxiv.org/abs/2201.02177)
+
+    *Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin, Vedant Misra*
+
+1. **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.** arXiv 2023. [paper](https://arxiv.org/abs/2201.11903)
+
+    *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou*
+
+1. **Implicit Chain of Thought Reasoning via Knowledge Distillation.** arXiv 2023. [paper](https://arxiv.org/abs/2311.01460)
+
+    *Yuntian Deng, Kiran Prasad, Roland Fernandez, Paul Smolensky, Vishrav Chaudhary, Stuart Shieber*
+
+1. **Positional Description Matters for Transformers Arithmetic.** arXiv 2023. [paper](https://arxiv.org/abs/2311.14737)
+
+    *Ruoqi Shen, Sébastien Bubeck, Ronen Eldan, Yin Tat Lee, Yuanzhi Li, Yi Zhang*
+
+1. **Length Generalization in Arithmetic Transformers.** arXiv 2023. [paper](https://arxiv.org/abs/2306.15400)
+
+    *Samy Jelassi, Stéphane d'Ascoli, Carles Domingo-Enrich, Yuhuai Wu, Yuanzhi Li, François Charton*
+
+1. **Transformers Can Do Arithmetic with the Right Embeddings.** arXiv 2024. [paper](https://arxiv.org/abs/2405.17399)
+
+    *Sean McLeish, Arpit Bansal, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild, Tom Goldstein*
+
+1. **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.** arXiv 2024. [paper](https://arxiv.org/abs/2405.14838)
+
+    *Yuntian Deng, Yejin Choi, Stuart Shieber*
+
 ## Formal Languages  
 
 1. **Neural Networks and the Chomsky Hierarchy.** ICLR 2023. [paper](https://openreview.net/forum?id=WbxHAzkeQcn)
