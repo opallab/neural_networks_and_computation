@@ -146,7 +146,7 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 <a name="feedforward-learning"></a>
 ### Feedforward neural networks
 
-1. **Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity.** arXiv 2025. [paper](https://arxiv.org/abs/2502.16763)
+1. **Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks.** arXiv 2025. [paper](https://arxiv.org/abs/2502.16763)
 
     *George Giapitzakis, Artur Back de Luca, Kimon Fountoulakis*
 
