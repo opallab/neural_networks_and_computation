@@ -134,7 +134,7 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Xiang Cheng, Lawrence Carin, Suvrit Sra*
 
-1. **Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems.** AISTATS 2024. [paper](https://openreview.net/forum?id=rWQDzq3O5c&noteId=VeksyxMusa)
+1. **Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems.** AISTATS 2024. [paper](https://arxiv.org/abs/2310.10603)
 
     *Chendi Qian, Didier Chételat, Christopher Morris*
 
@@ -146,6 +146,10 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 1. **Positional Attention: Expressivity and Learnability of Algorithmic Computation.** arXiv 2025. [paper](https://arxiv.org/abs/2410.01686)
 
     *Artur Back de Luca, George Giapitzakis, Shenghao Yang, Petar Veličković, Kimon Fountoulakis*
+
+1. **Learning Compositional Functions with Transformers from Easy-to-Hard Data.** COLT 2025. [paper](https://arxiv.org/abs/2505.23683)
+
+    *Zixuan Wang, Eshaan Nichani, Alberto Bietti, Alex Damian, Daniel Hsu, Jason D. Lee, Denny Wu*
 
 <a name="feedforward-learning"></a>
 ### Feedforward neural networks
