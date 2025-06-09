@@ -25,6 +25,9 @@ Contributed by Kimon Fountoulakis
 <tr>
     <td>&ensp;<a href="#feedforward-learning">2.2 Feedforward neural networks</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#graph-neural-networks-learning">2.2 Graph neural networks</a></td>
+</tr>
 <tr><td colspan="1"><a href="#formal-languages">4. Formal Languages</a></td></tr> 
 <tr><td colspan="1"><a href="#empirical">3. Empirical</a></td></tr> 
 </table>
@@ -139,10 +142,6 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Xiang Cheng, Lawrence Carin, Suvrit Sra*
 
-1. **Graph neural networks extrapolate out-of-distribution for shortest paths.** arXiv 2025. [paper](https://arxiv.org/abs/2503.19173)
-
-    *Robert R. Nerem, Samantha Chen, Sanjoy Dasgupta, Yusu Wang*
-
 ## Learning Results  
 
 <a name="transformers-learning"></a>
@@ -162,6 +161,13 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 1. **Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks.** arXiv 2025. [paper](https://arxiv.org/abs/2502.16763)
 
     *George Giapitzakis, Artur Back de Luca, Kimon Fountoulakis*
+
+<a name="graph-neural-networks-learning"></a>
+### Graph neural networks
+
+1. **Graph neural networks extrapolate out-of-distribution for shortest paths.** arXiv 2025. [paper](https://arxiv.org/abs/2503.19173)
+
+    *Robert R. Nerem, Samantha Chen, Sanjoy Dasgupta, Yusu Wang*
 
 ## Formal Languages  
 
