@@ -194,6 +194,14 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli*
 
+1. **LSTM Networks Can Perform Dynamic Counting.** ACL 2019 Workshop on Deep Learning and Formal Languages. [paper](https://arxiv.org/abs/1906.03648)
+
+    *Mirac Suzgun, Sebastian Gehrmann, Yonatan Belinkov, Stuart M. Shieber*
+
+1. **Thinking Like Transformers.** ICML 2021. [paper](https://arxiv.org/abs/2106.06981)
+
+    *Gail Weiss, Yoav Goldberg, Eran Yahav*
+
 1. **Investigating the Limitations of Transformers with Simple Arithmetic Tasks.** arXiv 2021. [paper](https://arxiv.org/abs/2102.13019)
 
     *Rodrigo Nogueira, Zhiying Jiang, Jimmy Lin*
@@ -217,6 +225,10 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 1. **Positional Description Matters for Transformers Arithmetic.** arXiv 2023. [paper](https://arxiv.org/abs/2311.14737)
 
     *Ruoqi Shen, Sébastien Bubeck, Ronen Eldan, Yin Tat Lee, Yuanzhi Li, Yi Zhang*
+
+1. **Learning Transformer Programs.** NeurIPS 2023. [paper](https://arxiv.org/abs/2306.01128)
+
+    *Dan Friedman, Alexander Wettig, Danqi Chen*
 
 1. **Length Generalization in Arithmetic Transformers.** arXiv 2023. [paper](https://arxiv.org/abs/2306.15400)
 
