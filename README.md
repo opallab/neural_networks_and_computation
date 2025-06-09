@@ -143,7 +143,7 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 <a name="transformers-learning"></a>
 ### Transformers
 
-1. **Positional Attention: Expressivity and Learnability of Algorithmic Computation.** arXiv 2025. [paper](https://arxiv.org/abs/2410.01686)
+1. **Positional Attention: Expressivity and Learnability of Algorithmic Computation.** ICML 2025. [paper](https://arxiv.org/abs/2410.01686)
 
     *Artur Back de Luca, George Giapitzakis, Shenghao Yang, Petar Veličković, Kimon Fountoulakis*
 
