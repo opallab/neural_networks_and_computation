@@ -134,13 +134,14 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Artur Back De Luca, Kimon Fountoulakis*
 
-1. **Graph Transformers Dream of Electric Flow.** ICLR 2025. [paper](https://openreview.net/forum?id=rWQDzq3O5c&noteId=VeksyxMusa)
-
-    *Xiang Cheng, Lawrence Carin, Suvrit Sra*
 
 1. **Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems.** AISTATS 2024. [paper](https://arxiv.org/abs/2310.10603)
 
     *Chendi Qian, Didier Chételat, Christopher Morris*
+
+1. **Graph Transformers Dream of Electric Flow.** ICLR 2025. [paper](https://openreview.net/forum?id=rWQDzq3O5c&noteId=VeksyxMusa)
+
+    *Xiang Cheng, Lawrence Carin, Suvrit Sra*
 
 ## Learning Results  
 
