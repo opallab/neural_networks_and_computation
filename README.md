@@ -162,6 +162,16 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *George Giapitzakis, Artur Back de Luca, Kimon Fountoulakis*
 
+## Formal Languages  
+
+1. **Neural Networks and the Chomsky Hierarchy.** ICLR 2023. [paper](https://openreview.net/forum?id=WbxHAzkeQcn)
+
+    *Grégoire Delétang, Anian Ruoss, Jordi Grau-Moya, Tim Genewein, Li Kevin Wenliang, Elliot Catt, Chris Cundy, Marcus Hutter, Shane Legg, Joel Veness, Pedro A. Ortega*
+
+1. **Training Neural Networks as Recognizers of Formal Languages.** ICLR 2025. [paper](https://openreview.net/forum?id=aWLQTbfFgV)
+
+    *Alexandra Butoi, Ghazal Khalighinejad, Anej Svete, Josef Valvoda, Ryan Cotterell, Brian DuSell*
+
 ## Empirical
 
 1. **Learning to Execute.** arXiv 2015. [paper](https://arxiv.org/abs/1410.4615)
@@ -219,13 +229,3 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 1. **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step.** arXiv 2024. [paper](https://arxiv.org/abs/2405.14838)
 
     *Yuntian Deng, Yejin Choi, Stuart Shieber*
-
-## Formal Languages  
-
-1. **Neural Networks and the Chomsky Hierarchy.** ICLR 2023. [paper](https://openreview.net/forum?id=WbxHAzkeQcn)
-
-    *Grégoire Delétang, Anian Ruoss, Jordi Grau-Moya, Tim Genewein, Li Kevin Wenliang, Elliot Catt, Chris Cundy, Marcus Hutter, Shane Legg, Joel Veness, Pedro A. Ortega*
-
-1. **Training Neural Networks as Recognizers of Formal Languages.** ICLR 2025. [paper](https://openreview.net/forum?id=aWLQTbfFgV)
-
-    *Alexandra Butoi, Ghazal Khalighinejad, Anej Svete, Josef Valvoda, Ryan Cotterell, Brian DuSell*
