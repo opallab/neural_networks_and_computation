@@ -84,6 +84,10 @@ Contributed by Kimon Fountoulakis
 
     *Binghui Peng, Srini Narayanan, Christos Papadimitriou*
 
+1. **The Expressive Power of Transformers with Chain of Thought.** ICLR 2024. [paper](https://arxiv.org/abs/2310.07923)
+
+    *William Merrill, Ashish Sabharwal*
+
 1. **Depth-Width tradeoffs in Algorithmic Reasoning of Graph Tasks with Transformers.** arXiv 2025. [paper](https://arxiv.org/abs/2503.01805)
 
     *Gilad Yehudai, Clayton Sanford, Maya Bechler-Speicher, Orr Fischer, Ran Gilad-Bachrach, Amir Globerson*
