@@ -142,6 +142,10 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Xiang Cheng, Lawrence Carin, Suvrit Sra*
 
+1. **Primal-Dual Neural Algorithmic Reasoning.** arXiv 2025. [paper](https://arxiv.org/abs/2505.24067)
+
+    *Yu He, Ellen Vitercik*
+
 ## Learning Results  
 
 <a name="transformers-learning"></a>
