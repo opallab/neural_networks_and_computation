@@ -138,6 +138,10 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Chendi Qian, Didier Chételat, Christopher Morris*
 
+1. **MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation.** ICML 2024. [paper](https://arxiv.org/abs/2406.05959)
+
+    *Alexandre Hayderi, Amin Saberi, Ellen Vitercik, Anders Wikum*
+
 1. **Graph Transformers Dream of Electric Flow.** ICLR 2025. [paper](https://openreview.net/forum?id=rWQDzq3O5c&noteId=VeksyxMusa)
 
     *Xiang Cheng, Lawrence Carin, Suvrit Sra*
