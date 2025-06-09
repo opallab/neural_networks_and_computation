@@ -33,7 +33,7 @@ Contributed by Kimon Fountoulakis
 
 ### Recurrent neural networks
 
-1. **Supervised Neural Networks for the Classification of Structures.** Journal of Computer and System Sciences 1995. [paper](https://www.sciencedirect.com/science/article/pii/S0022000085710136)
+1. **On the Computational Power of Neural Nets.** Journal of Computer and System Sciences 1995. [paper](https://www.sciencedirect.com/science/article/pii/S0022000085710136)
 
     *H.T. Siegelmann, E.D. Sontag*
 
