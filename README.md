@@ -25,8 +25,8 @@ Contributed by Kimon Fountoulakis
 <tr>
     <td>&ensp;<a href="#feedforward-learning">2.2 Feedforward neural networks</a></td>
 </tr>
-<tr><td colspan="1"><a href="#empirical">3. Empirical</a></td></tr> 
 <tr><td colspan="1"><a href="#formal-languages">4. Formal Languages</a></td></tr> 
+<tr><td colspan="1"><a href="#empirical">3. Empirical</a></td></tr> 
 </table>
     
 ## Simulation Results
