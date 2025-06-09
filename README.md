@@ -134,6 +134,10 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 
     *Xiang Cheng, Lawrence Carin, Suvrit Sra*
 
+1. **Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems.** AISTATS 2024. [paper](https://openreview.net/forum?id=rWQDzq3O5c&noteId=VeksyxMusa)
+
+    *Chendi Qian, Didier Chételat, Christopher Morris*
+
 ## Learning Results  
 
 <a name="transformers-learning"></a>
