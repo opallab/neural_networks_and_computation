@@ -107,6 +107,10 @@ Contributed by Kimon Fountoulakis
 
     *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sanjiv Kumar, Sashank J. Reddi*
 
+1. **ALTA: Compiler-Based Analysis of Transformers.** TMLR 2025. [paper](https://arxiv.org/abs/2410.18077)
+
+    *Peter Shaw, James Cohan, Jacob Eisenstein, Kenton Lee, Jonathan Berant, Kristina Toutanova*
+
 <a name="feedforward-simulation"></a>
 ### Feedforward neural networks
 
