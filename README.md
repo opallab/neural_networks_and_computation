@@ -111,6 +111,10 @@ Contributed by Kimon Fountoulakis
 
     *Peter Shaw, James Cohan, Jacob Eisenstein, Kenton Lee, Jonathan Berant, Kristina Toutanova*
 
+1. **Tropical Attention: Neural Algorithmic Reasoning for Combinatorial Algorithms.** arXiv 2025. [paper](https://arxiv.org/abs/2505.17190)
+
+    *Baran Hashemi, Kurt Pasque, Chris Teska, Ruriko Yoshida*
+
 <a name="feedforward-simulation"></a>
 ### Feedforward neural networks
 
@@ -149,6 +153,10 @@ of bounded size.** AAAI 2021. [paper](https://cdn.aaai.org/ojs/16939/16939-13-20
 1. **Aligning Transformers with Weisfeiler-Leman.** ICML 2024. [paper](https://arxiv.org/abs/2406.03148)
 
     *Luis Müller, Christopher Morris*
+
+1. **Towards characterizing the value of edge embeddings in Graph Neural Networks.** arXiv 2024. [paper](https://arxiv.org/abs/2410.09867)
+
+    *Dhruv Rohatgi, Tanya Marwah, Zachary Chase Lipton, Jianfeng Lu, Ankur Moitra, Andrej Risteski*
 
 1. **Graph Transformers Dream of Electric Flow.** ICLR 2025. [paper](https://openreview.net/forum?id=rWQDzq3O5c&noteId=VeksyxMusa)
 
